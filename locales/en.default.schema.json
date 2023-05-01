@@ -1161,7 +1161,7 @@
       }
     },
     "image-banner": {
-      "name": "Wallop",
+      "name": "Image banner",
       "settings": {
         "image": {
           "label": "First image"
